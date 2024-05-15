@@ -1,0 +1,20 @@
+.productList {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    gap: 20px;
+}
+
+.productItem {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+@media screen and (max-width: 768px) {
+    .productList {
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    }
+}

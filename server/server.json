@@ -1,0 +1,244 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "imageUrl": "https://mobimania.ua/wp-content/uploads/2021/04/8806092093751-1.jpg",
+      "name": "Samsung Galaxy S21",
+      "count": 8,
+      "size": {
+        "width": 7.31,
+        "height": 15.69
+      },
+      "weight": "169 г",
+      "comments": ["Чудовий смартфон!", "Висока якість екрану."]
+    },
+    {
+      "id": 2,
+      "imageUrl": "https://hotline.ua/img/tx/230/2300985995.jpg",
+      "name": "Sony PlayStation 5",
+      "count": 3,
+      "size": {
+        "width": 39,
+        "height": 10.4
+      },
+      "weight": "4.5 кг",
+      "comments": ["Найкраща консоль!", "Графіка на висоті."]
+    },
+    {
+      "id": 3,
+      "imageUrl": "https://hotline.ua/img/tx/302/3023792065.jpg",
+      "name": "Apple MacBook Pro 16",
+      "count": 5,
+      "size": {
+        "width": 35.79,
+        "height": 24.59
+      },
+      "weight": "2 кг",
+      "comments": ["Ідеальний ноутбук для роботи!", "Великий екран дозволяє комфортно працювати."]
+    },
+    {
+      "id": 4,
+      "imageUrl": "https://touch.com.ua/upload/resize_cache/webp/iblock/3f6/3f6febf17d66e9e274e83ed3ab654e03.webp",
+      "name": "GoPro HERO9 Black",
+      "count": 10,
+      "size": {
+        "width": 6.2,
+        "height": 4.4
+      },
+      "weight": "158 г",
+      "comments": ["Найкраща екшн-камера на ринку!", "Висока якість відео зйомки."]
+    },
+    {
+      "id": 5,
+      "imageUrl": "https://hotline.ua/img/tx/358/3584223725.jpg",
+      "name": "Amazon Kindle Paperwhite",
+      "count": 7,
+      "size": {
+        "width": 11.7,
+        "height": 16.9
+      },
+      "weight": "182 г",
+      "comments": ["Прекрасний електронний книга.", "Довга тривалість роботи без підзарядки."]
+    },
+    {
+      "id": 6,
+      "imageUrl": "https://yesoriginal.com.ua/image/cache/catalog/i/ke/ia/c5143a581ce998937e305c300b282c51-810x853.webp",
+      "name": "Nike Air Zoom Pegasus 38",
+      "count": 15,
+      "size": {
+        "width": 11.3,
+        "height": 21.7
+      },
+      "weight": "295 г",
+      "comments": ["Чудові бігові кросівки!", "Зручна підошва дозволяє комфортно бігати."]
+    },
+    {
+      "id": 7,
+      "imageUrl": "https://www.lg.com/ua/images/televisions/md06241517/gallery/medium01.jpg",
+      "name": "LG OLED CX 4K TV",
+      "count": 4,
+      "size": {
+        "width": 48.3,
+        "height": 27.8
+      },
+      "weight": "23.1 кг",
+      "comments": ["Прекрасний телевізор!", "Ідеальне зображення."]
+    },
+    {
+      "id": 8,
+      "imageUrl": "https://flytechnology.ua/image/cache/catalog/oc_3021product-Kvadrokopter-DJI-Mavic-Air-2S_92702f96706efee28c36a0aa78b21bbc-1000x1000.jpg",
+      "name": "DJI Mavic Air 2",
+      "count": 6,
+      "size": {
+        "width": 18,
+        "height": 8.4
+      },
+      "weight": "570 г",
+      "comments": ["Найкращий дрон для початківців!", "Висока якість знімків."]
+    },
+    {
+      "id": 9,
+      "imageUrl": "https://hotline.ua/img/tx/240/2406954625.jpg",
+      "name": "Bose QuietComfort 35 II",
+      "count": 9,
+      "size": {
+        "width": 15.2,
+        "height": 18
+      },
+      "weight": "235 г",
+      "comments": ["Чудові навушники для подорожей!", "Активне шумозаглушення на високому рівні."]
+    },
+    {
+      "id": 10,
+      "imageUrl": "https://hotline.ua/img/tx/329/3299378535.jpg",
+      "name": "Xiaomi Mi Electric Scooter Pro 2",
+      "count": 12,
+      "size": {
+        "width": 43,
+        "height": 16.5
+      },
+      "weight": "14.2 кг",
+      "comments": ["Прекрасний електроскутер для міських поїздок!", "Далекі поїздки стають легкими."]
+    },
+    {
+      "id": 11,
+      "imageUrl": "https://newtime.ua/image/import/catalog/zvuk/Sony/Sony-WH-1000XM4-Wireless-Noise-Canceling-Headphones-Silver/Sony-WH-1000XM4-Wireless-Noise-Canceling-Headphones-Silver-1.webp",
+      "name": "Sony WH-1000XM4",
+      "count": 5,
+      "size": {
+        "width": 17,
+        "height": 20.3
+      },
+      "weight": "254 г",
+      "comments": ["Кращі навушники з шумозаглушенням!", "Чудовий звук."]
+    },
+    {
+      "id": 12,
+      "imageUrl": "https://hotline.ua/img/tx/444/4449711445.jpg",
+      "name": "Canon EOS R6",
+      "count": 3,
+      "size": {
+        "width": 13.6,
+        "height": 9.9
+      },
+      "weight": "680 г",
+      "comments": ["Ідеальна камера для фотографів!", "Прекрасна якість зображення."]
+    },
+    {
+      "id": 13,
+      "imageUrl": "https://hotline.ua/img/tx/393/3933154055.jpg",
+      "name": "Microsoft Xbox Series X",
+      "count": 6,
+      "size": {
+        "width": 15.1,
+        "height": 30.1
+      },
+      "weight": "4.4 кг",
+      "comments": ["Найпотужніша ігрова консоль!", "Графіка на високому рівні."]
+    },
+    {
+      "id": 14,
+      "imageUrl": "https://newtime.ua/image/import/catalog/watch/Garmin/Forerunner/Garmin-Forerunner-945-LTE/010-02383-20/010-02383-20-0.webp",
+      "name": "Garmin Forerunner 945",
+      "count": 8,
+      "size": {
+        "width": 4.5,
+        "height": 1.9
+      },
+      "weight": "50 г",
+      "comments": ["Чудовий спортивний годинник!", "Точний GPS."]
+    },
+    {
+      "id": 15,
+      "imageUrl": "https://hotline.ua/img/tx/446/4468461405.jpg",
+      "name": "Lenovo Yoga C940",
+      "count": 5,
+      "size": {
+        "width": 32.2,
+        "height": 21.5
+      },
+      "weight": "1.35 кг",
+      "comments": ["Чудовий конвертібельний ноутбук!", "Гнучкий екран."]
+    },
+    {
+      "id": 16,
+      "imageUrl": "https://hotline.ua/img/tx/168/1688786455.jpg",
+      "name": "Bose SoundLink Revolve+",
+      "count": 11,
+      "size": {
+        "width": 10.5,
+        "height": 18.4
+      },
+      "weight": "900 г",
+      "comments": ["Чудовий портативний акустичний система!", "Глибокий звук."]
+    },
+    {
+      "id": 17,
+      "imageUrl": "https://i.can.ua/images/650x650/goods/12940/12940967.jpg",
+      "name": "Samsung Odyssey G9",
+      "count": 2,
+      "size": {
+        "width": 114.3,
+        "height": 52.1
+      },
+      "weight": "16.7 кг",
+      "comments": ["Найкращий геймерський монітор!", "Імпресивний кривий екран."]
+    },
+    {
+      "id": 18,
+      "imageUrl": "https://hotline.ua/img/tx/230/2306734695.jpg",
+      "name": "Fitbit Charge 4",
+      "count": 9,
+      "size": {
+        "width": 3.56,
+        "height": 2.03
+      },
+      "weight": "30 г",
+      "comments": ["Чудовий фітнес-трекер!", "Точний вимірювач пульсу."]
+    },
+    {
+      "id": 19,
+      "imageUrl": "https://hotline.ua/img/tx/448/4489332395.jpg",
+      "name": "Sony WH-CH710N",
+      "count": 4,
+      "size": {
+        "width": 19,
+        "height": 15
+      },
+      "weight": "223 г",
+      "comments": ["Прекрасні навушники з шумозаглушенням!", "Довга автономність роботи."]
+    },
+    {
+      "id": 20,
+      "imageUrl": "https://hotline.ua/img/tx/444/4449872445.jpg",
+      "name": "Razer BlackWidow V3",
+      "count": 6,
+      "size": {
+        "width": 45,
+        "height": 15.5
+      },
+      "weight": "1.24 кг",
+      "comments": ["Чудова механічна клавіатура!", "Приємний ход клавіш."]
+    }
+  ]
+}
